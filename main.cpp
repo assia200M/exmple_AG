@@ -170,7 +170,7 @@ Population initialiserPopulation() {
 
     return population; // Ajouté pour corriger le warning
 }
-// ... (ton code précédent : fonctions inchangées jusqu'au main)
+
 
 // CSV : écrire l'entête
 void initialiserFichierResultats(const string& nomFichierCSV) {
